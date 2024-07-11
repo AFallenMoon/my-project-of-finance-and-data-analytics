@@ -1,0 +1,105 @@
+Average PE ratio for the entire S&P 500 index: 
+32.33885614067796
+
+Average PE ratio for each industry:
+GICS Sector
+Communication Services    33.376646
+Consumer Discretionary    21.955461
+Consumer Staples          23.579241
+Energy                    14.667934
+Financials                21.168122
+Health Care               40.685844
+Industrials               32.335254
+Information Technology    56.630319
+Materials                 28.906701
+Real Estate               45.825992
+Utilities                 20.354939
+Name: Trailing PE Ratio, dtype: float64
+
+Top 3 highest industries by average PE ratio:
+GICS Sector
+Information Technology    56.630319
+Real Estate               45.825992
+Health Care               40.685844
+Name: Trailing PE Ratio, dtype: float64
+
+Top 3 lowest industries by average PE ratio:
+GICS Sector
+Energy        14.667934
+Utilities     20.354939
+Financials    21.168122
+Name: Trailing PE Ratio, dtype: float64
+
+Top 3 firms with highest PE ratios within each industry:
+                       Symbol  Trailing PE Ratio
+GICS Sector
+Communication Services    DIS         105.836960
+Communication Services    LYV          86.669720
+Communication Services    NWS          75.945946
+Consumer Discretionary   TSLA          64.525510
+Consumer Discretionary    CMG          63.989246
+Consumer Discretionary   AMZN          55.823530
+Consumer Staples          CLX          68.479385
+Consumer Staples           EL          59.831463
+Consumer Staples         COST          54.642677
+Energy                   TRGP          27.329899
+Energy                    EQT          26.948149
+Energy                    HES          22.454824
+Financials                FIS         103.958330
+Financials                AJG          53.768295
+Financials               SPGI          50.994410
+Health Care              GILD         187.638890
+Health Care               MRK         138.219770
+Health Care               LLY         135.198820
+Industrials               DAY         146.848480
+Industrials              UBER         113.095240
+Industrials              AXON          88.444440
+Information Technology   CRWD         710.381800
+Information Technology    AMD         255.271440
+Information Technology    TYL         116.245450
+Materials                  DD          86.380430
+Materials                  IP          81.452830
+Materials                CTVA          52.242424
+Real Estate               IRM         140.712110
+Real Estate              WELL         121.418600
+Real Estate               ARE         109.018684
+Utilities                 VST          56.981594
+Utilities                 EIX          31.528635
+Utilities                 CEG          28.725698
+
+Top 3 firms with lowest PE ratios within each industry:
+                       Symbol  Trailing PE Ratio
+GICS Sector
+Communication Services   CHTR           9.406280
+Communication Services  CMCSA           9.901857
+Communication Services    IPG          10.099644
+Consumer Discretionary     GM           5.683761
+Consumer Discretionary   APTV           6.548872
+Consumer Discretionary    PHM           8.441058
+Consumer Staples           BG           8.902420
+Consumer Staples           MO           9.627615
+Consumer Staples          TAP          10.011975
+Energy                    APA           3.236813
+Energy                    VLO           7.263623
+Energy                    MPC           8.327698
+Financials                 EG           5.506939
+Financials                SYF           6.829513
+Financials                 GL           7.736137
+Health Care               CVS           9.980702
+Health Care               CNC          13.055227
+Health Care              SOLV          13.489130
+Industrials               UAL           5.716728
+Industrials               DAL           5.942308
+Industrials              PCAR          10.517134
+Information Technology    JBL           9.983665
+Information Technology    HPQ          11.932432
+Information Technology   GDDY          12.448007
+Materials                 FMC           5.767180
+Materials                  CE           7.345943
+Materials                STLD           8.505818
+Real Estate              VICI          11.043651
+Real Estate               HST          17.343138
+Real Estate               SPG          18.733418
+Utilities                 ETR          10.495993
+Utilities                 NRG          11.208274
+Utilities                 EXC          14.695280
